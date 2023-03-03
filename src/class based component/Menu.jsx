@@ -1,7 +1,10 @@
 import React from "react";
-const Menu=()=>{
-    return(
-        <h1> hello </h1>
-    )
+import { Component } from "react";
+class Menu extends Component
+{
+    render()
+{
+    return <h1> class Menu </h1>
+}
 }
 export default Menu

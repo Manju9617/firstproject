@@ -1,7 +1,10 @@
 import React from "react";
-const Nav=()=>{
-    return(
-        <h1> hello </h1>
-    )
+import { Component } from "react";
+class Nav extends Component
+{
+    render()
+{
+    return <h1> class nav </h1>
+}
 }
 export default Nav
