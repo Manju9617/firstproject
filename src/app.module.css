@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.dropdown{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    list-style-type: none;
+}
+a{ 
+    display: block;
+    width: 200px;
+    background-color: blue;
+    color:ivory;
+    padding: 10px 0;
+    font-size: 1.2rem;
+    text-decoration: none;
+    text-align: center;
+
+
+}
+a:hover{
+    background-color: aqua;
+}
+.product{
+    display: none;
+    list-style-type: none;
+}
+.dropdown li:nth-child(2):hover .product{
+    display: block;
+}
+
+.sampu{
+
+    list-style-type: none;
+    transform: translateX(200px) translateY(-43px);
+    position: absolute;
+    display: none;
+
+}
+.product li:nth-child(2):hover .sampu{
+    display: block;
+}
