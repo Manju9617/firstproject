@@ -6,16 +6,17 @@
     justify-content: space-between;
     align-items:center;
     height: 75px;
-    background-color: blue;
-    color: white;
+    background-color: rgb(238, 232, 235);
+    color: rgb(236, 11, 116);
     margin: auto;
 
 }
 .menuBlock ul{
     display: flex;
-    width: 350px;
+    width: 450px;
     justify-content: space-around;
     align-items: center;
+    color: black;
 }
 .menuBlock ul li a{
 
@@ -24,11 +25,13 @@
 }
 .menuBlock ul li{
     list-style: none;
+    border: 3px;
+    
 }
 
 img{
-    height: 50px;
+    height: 75px;
     width:200px;
-    padding: 30px;
-    justify-content:center;
+    padding: 20px;
+    justify-content:left;
 }

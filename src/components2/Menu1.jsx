@@ -4,16 +4,19 @@ const Menu=()=>{
         <div className='menuBlock'>
             <ul>
                 <li>
-                    <a href="">HOME</a>
+                    <a href="">WOMEN</a>
                 </li>
                 <li>
-                    <a href="">LOGIN</a>
+                    <a href="">MEN</a>
                 </li>
                 <li>
-                    <a href="">SIGNUP</a>
+                    <a href="">KIDS</a>
                 </li>
                 <li>
-                    <a href="">HELP</a>
+                    <a href="">HOME & LIVING</a>
+                </li>
+                <li>
+                    <a href="">DISCOVER </a>
                 </li>
             </ul>
         </div>

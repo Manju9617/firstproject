@@ -1,11 +1,11 @@
 import React from "react";
-import Nav from './components/Nav';
+import Nav1 from './components2/Nav1';
 import "./global.css"
 
 const App=()=>{
     return(
         <>
-        <Nav/>
+        <Nav1/>
         </>
 
 
