@@ -1,7 +1,14 @@
 import React from "react";
-const App =()=>{
-  return(
-    <div>App</div>
-  )
+import Nav from './components/Nav';
+import "./global.css"
+
+const App=()=>{
+    return(
+        <>
+        <Nav/>
+        </>
+
+
+    )
 }
 export default App
