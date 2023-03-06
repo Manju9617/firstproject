@@ -1,13 +1,15 @@
 *{
     background-color:rgb(248, 240, 240) ;
+    
+    
 }
 .divBlock{
     display: flex;
     justify-content: space-between;
     align-items:center;
     height: 75px;
-    background-color: rgb(238, 232, 235);
-    color: rgb(236, 11, 116);
+    background-color: rgb(10, 10, 10);
+    color: rgb(245, 5, 5);
     margin: auto;
 
 }
@@ -17,6 +19,7 @@
     justify-content: space-around;
     align-items: center;
     color: black;
+    
 }
 .menuBlock ul li a{
 
@@ -30,8 +33,8 @@
 }
 
 img{
-    height: 75px;
-    width:200px;
+    height: 73px;
+    width: 220px;
     padding: 20px;
     justify-content:left;
 }
