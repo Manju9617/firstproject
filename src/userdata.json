@@ -1,0 +1,145 @@
+[
+    {
+    "movieName" : "vikram" ,
+    "duration" : "2.1 hours" ,
+    "cast": ["kamal","surya","vj sethupathi","fahadh fasal"],
+    "language": "Tamil",
+    "poster" : "https://m.media-amazon.com/images/M/MV5BOTYxOWU3OWYtOGM4NC00NDhlLTlmZTYtMGUxM2YwZmFhOGFlXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
+    },
+    {
+    "movieName" : "googly" ,
+    "duration" : "2.1 hours" ,
+    "cast": ["yash","kriti","ananthnag","ashok"],
+    "language": "kannada",
+    "poster" : "https://m.media-amazon.com/images/M/MV5BMTQ5NzQ5MDk3NF5BMl5BanBnXkFtZTgwMzIyMDU4MzE@._V1_.jpg"
+    },
+    {
+    "movieName" : "kranti" ,
+    "duration" : "2.9 hours" ,
+    "cast": ["darshan","rachitha","sadukokila","pushpavati"],
+    "language": "kannada",
+    "poster" : "https://m.media-amazon.com/images/M/MV5BMTZhYzY0NDAtNGIwNi00OTg3LWIxODAtOWE5ZjMyNWIxOTgwXkEyXkFqcGdeQXVyMTA1NzEzOTU1._V1_.jpg"
+    },
+    {
+    "movieName" : "vaathi" ,
+    "duration" : "2.7 hours" ,
+    "cast": ["dhanush","samyuktha","sai kumar","bharani"],
+    "language": "tamil",
+    "poster" : "https://ttncinema.com/static/c1e/client/88252/uploaded/30ceb9d6e195b90740d06d1e08759f28.jpg"
+    },
+    {
+        "movieName" : "nan kadavul illai" ,
+        "duration" : "2.2 hours" ,
+        "cast": ["samuthirakani","saakshi","s a chandrashekar","siddharth"],
+        "language": "tamil",
+        "poster" : "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/naan-kadavul-illai-et00351401-1675232599.jpg"
+    },
+    {
+        "movieName" : "veera simha reddy" ,
+        "duration" : "2.1 hours" ,
+        "cast": ["balaiyaa","duniya vijay","Honey Rose","Shruti Haasan"],
+        "language": "Telugu",
+        "poster" : "https://m.media-amazon.com/images/M/MV5BNmE4MTY4NmEtNzM1My00YWU3LTgyOTMtODEwMzQzZWQyOTY3XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+          
+        "movieName" : "Varisu" ,
+        "duration" : "2.35 hours" ,
+        "cast": ["vijay","rashmika","sharath kumar","prakash raj"],
+        "language": "Tamil",
+        "poster" :"https://m.media-amazon.com/images/M/MV5BZGIwNWFhOGYtNjFmMi00ZWJjLWE0ZTEtODg3OWE1Y2M0NzVmXkEyXkFqcGdeQXVyMTMxODA4Njgx._V1_FMjpg_UX1000_.jpg"  
+        },
+        {
+        "movieName" : "thunivu" ,
+        "duration" : "2.15 hours" ,
+        "cast": ["ajith","Manju Warrier","premkumar","samudrakani"],
+        "language": "Tamil",
+        "poster" :"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/thunivu-et00340798-1666182985.jpg"
+        },
+        {
+            "movieName" : "Nannaku Prematho" ,
+            "duration" : "2.1 hours" ,
+            "cast": [" N. T. Rama Rao Jr","Jagapathi Babu","Rajendra Prasad ","Rakul Preet"],
+            "language": "Telugu",
+            "poster" :"https://upload.wikimedia.org/wikipedia/en/3/3a/Nannaku_Prematho_poster.jpg" 
+        },
+        {
+           
+            "movieName" : "KGF" ,
+            "duration" : "2.4 hours" ,
+            "cast": ["Yash","Ramachandra Raju","Srinidhi Shetty","Vasishta N. Simha"],
+            "language": "Kannada",
+            "poster" :"https://m.media-amazon.com/images/M/MV5BZDNlNzBjMGUtYTA0Yy00OTI2LWJmZjMtODliYmUyYTI0OGFmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_FMjpg_UX1000_.jpg"  
+        },
+        {
+            
+            "movieName" : "KGF 2" ,
+            "duration" : "2.5 hours" ,
+            "cast": ["Yash","Ramachandra Raju","Srinidhi Shetty","Vasishta N. Simha"],
+            "language": "Kannada",
+            "poster" :"https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg" 
+        },
+
+        {
+            
+            "movieName" : "Rajakumara" ,
+            "duration" : "2.2 hours" ,
+            "cast": ["puneeth","priya anand","chikanna","achuth rao"],
+            "language": "kannada",
+            "poster" :"https://www.filmibeat.com/img/popcorn/movie_posters/rajakumara-20150424095934-14408.jpg" 
+        },
+
+        {
+            
+            "movieName" : "pathan" ,
+            "duration" : "2.1 hours" ,
+            "cast": ["sharukh khan","deepika","jhon","dimple kapdiya"],
+            "language": "Hindhi",
+            "poster" :"https://filmfare.wwmindia.com/content/2022/dec/pathaan21669878743.jpg" 
+        },
+
+        {
+            
+            "movieName" : "walter veeraiya" ,
+            "duration" : "2.1 hours" ,
+            "cast": ["chiranjeevi","raviteja","shruthi hassan","boby simha"],
+            "language": "Telugu",
+            "poster" :"https://m.media-amazon.com/images/M/MV5BYTQ0OTA5OTEtZWFkNy00Y2Q4LWI1NGEtNDA5OGE0Y2JjZjQxXkEyXkFqcGdeQXVyMTE5NTEyNTg5._V1_.jpg" 
+        },
+
+        {
+            
+            "movieName" : "antman" ,
+            "duration" : "2.5 hours" ,
+            "cast": ["luis","hope","villian","paul rude"],
+            "language": "english",
+            "poster" :"https://m.media-amazon.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_FMjpg_UX1000_.jpg" 
+        },
+
+        {
+            
+            "movieName" : "bahubhali 1" ,
+            "duration" : "2.1 hours" ,
+            "cast": ["prabhas","rana","anushka","thammanah"],
+            "language": "Telugu",
+            "poster" :"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/baahubali-the-beginning-part-i-et00031217-05-11-2020-06-57-14.jpg" 
+        },
+
+        {
+            
+            "movieName" : "bahubhali 2" ,
+            "duration" : "2.2 hours" ,
+            "cast": ["prabhas","anushka","rana","thammanah"],
+            "language": "Telugu",
+            "poster" :"https://upload.wikimedia.org/wikipedia/en/9/93/Baahubali_2_The_Conclusion_poster.jpg" 
+        },
+        {
+            
+            "movieName" : "kantara" ,
+            "duration" : "2.2 hours" ,
+            "cast": ["rishab","sapthami","achuth","kishore"],
+            "language": "Telugu",
+            "poster":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF8Vs-iUxtt_HdleBlTAakLb-MHGLVYlCQ8_VhFFoNvtEglITi"
+        }
+    
+]
