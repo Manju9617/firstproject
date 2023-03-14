@@ -1,0 +1,41 @@
+[ 
+    {
+        "studentname": "otta kumar",
+        "rollnumber": 25 ,
+        "gender" : "Male",
+        "dob":"05/12/2008",
+        "course": "mechanical",
+        "phonenumber": [8954235121,87545515212,7845121325],
+        "photo":"https://www.shutterstock.com/image-photo/portrait-cheerful-male-international-indian-260nw-2071252046.jpg"
+
+
+    },
+    {
+
+        "studentname":"kumari",
+        "rollnumber": 28 ,
+        "gender" : "female",
+        "dob":"05/12/2009",
+        "course": "computer science",
+        "phonenumber": [8954235125,8752546531,85478965125],
+        "photo": "https://media.istockphoto.com/id/1272815911/photo/young-indian-female-university-student-stock-photo.jpg?s=612x612&w=0&k=20&c=Iwdc08GR3pw8_Qg3_nabNJUQYTo52EU3dvW4tsth1tE=" 
+    },
+    {
+        "studentname":"kumaran",
+        "rollnumber": 30 ,
+        "gender" : "male",
+        "dob":"05/12/2007",
+        "course": "BCA",
+        "phonenumber": [8954235122,8546525212,9874512215],
+        "photo": "https://www.shutterstock.com/image-photo/portrait-smiling-young-college-student-260nw-1192615495.jpg" 
+    },
+    {
+        "studentname":"dayana",
+        "rollnumber": 32 ,
+        "gender" : "female",
+        "dob":"05/12/2006",
+        "course": "ece",
+        "phonenumber": [8954235172, 9854651235 , 8547895612],
+        "photo":"https://media.istockphoto.com/id/1139495117/photo/facing-my-future-with-confidence.jpg?s=612x612&w=0&k=20&c=mtC9fv2OKeoGR4eAxSgm3Laukw7EBYYbHVRrO5D88PY="
+    }
+]
