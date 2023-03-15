@@ -1,18 +1,30 @@
-.movieBlock{
-    border: 2px solid rgb(224, 115, 12);
-    width: 350px;
+*{
+    
+    background-color: rgb(241, 195, 195);
+}
+.btngroup> button{
+    background-color: blue;
+    border: none;
+    color:rgb(240, 245, 245);
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 15px;
+    margin: 4px 2px;
+    opacity: 0.5;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+
+}
+.btngroup:hover{
+    opacity: 1;
+}
+.mainBlock{
     display: flex;
-    flex-direction: column;
+    align-items:center ;
     justify-content: center;
-    align-items: center;
-}
-
-img{
-    width: 200px;
-    height: 200px;
-}
-
-.FilmBlock{
-    display: flex;
-    justify-content: space-evenly;
+    flex-direction: column;
+    top: 20px;
+    height: 100vh;
 }
