@@ -1,5 +1,6 @@
 import React from 'react'
 import {createRoot} from "react-dom/client"
 
-import App16 from './App16';
-createRoot(document.getElementById('root')).render(<App16/>)
+
+import App17 from './App17';
+createRoot(document.getElementById('root')).render(<App17/>)
