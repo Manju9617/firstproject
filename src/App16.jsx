@@ -26,7 +26,7 @@ export default class App16 extends Component {
       <div className='btngroup'>
         <button onClick={this.handleincrement}>+ increment</button>
         <button onClick={this.handledecrement}>- decrement</button>
-        <button onClick={this.handleReset.bind(this)}>reset</button>
+        <button onClick={this.handleReset}>reset</button>
       </div>
       </div>
     )
