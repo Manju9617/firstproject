@@ -1,4 +1,4 @@
 import React from 'react'
 import {createRoot} from "react-dom/client"
-import App19 from './App19';
-createRoot(document.getElementById('root')).render(<App19/>)
+import App22 from './App22';
+createRoot(document.getElementById('root')).render(<App22/>)
