@@ -25,11 +25,7 @@ export default class App28 extends Component {
             <br/>
             <input type="text"id='password' ref={this.passRef}/>
             <br/>
-            <button onClick={(e)=>{
-            e.preventDefault()
-            let username=document.getElementById("username").value
-            let password=document.getElementById("password").value
-            }}>SUBMIT</button>
+          <button>SUBMIT</button>
         </form>
       </div>
     )
